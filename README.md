@@ -11,6 +11,8 @@
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=transparent)
 
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=dracula)
+
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
 <img align ="center"alt="html5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
