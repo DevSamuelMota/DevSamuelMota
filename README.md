@@ -28,4 +28,3 @@
 </div><br/>Apaixonado por tecnologia, educação e por ajudar as pessoas por meio da programação.
 
 ## Meu Site:
-Meu site: file:///C:/Users/55859/Documents/Projetos/index.html
