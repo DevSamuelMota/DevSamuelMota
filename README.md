@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ](https://github.com/DevSamuelMota)
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
