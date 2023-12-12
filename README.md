@@ -6,12 +6,9 @@
 )](https://www.linkedin.com/in/samuel-costa-5252bb262/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ](https://github.com/DevSamuelMota)
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=cobalt)
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=transparent)
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=dracula)
+<div>
+ <img height=180cm src="![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamuel&show_icons=true&theme=cobalt)"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
