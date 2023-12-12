@@ -20,5 +20,4 @@
 
 </div><br/>Apaixonado por tecnologia, educação e por ajudar as pessoas por meio da programação.
 
-<br>![Snake animation](https://github.com/DevSamuelMota/DevSamuelMota=/blob/output/github-contribution-grid-snake.svg)
-</br>
+![snake gif](https://github.com/DevSamuelMota/DevSamuelMota/blob/output/github-contribution-grid-snake.gif)
