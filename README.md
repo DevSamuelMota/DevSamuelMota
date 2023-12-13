@@ -4,7 +4,8 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align[]="left" height="250" alt="coding-time" src="Github.gif">
+    <img align[]="left" height="250" alt="coding-time" src="![Github](https://github.com/DevSamuelMota/DevSamuelMota/assets/142235885/22c9f488-5d93-4893-9051-66440c234c2c)
+">
     <h1 align="center">
     </h1>
     <img align ="center" alt="html5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
