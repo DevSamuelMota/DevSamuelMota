@@ -20,7 +20,7 @@
     <img align="center" height="30" width="40" alt="react-icon" src="python-original.svg">
    </div>
     
-<br/>Apaixonado por tecnologia, educação e por ajudar as pessoas por meio da programação.
+<br/>Apaixonado por tecnologia, educação e por ajudar as pessoas por meio da Tecnologia.
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
